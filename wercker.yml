@@ -1,0 +1,5 @@
+box: debian
+build:
+  steps:
+    - script:
+      code: ls /
